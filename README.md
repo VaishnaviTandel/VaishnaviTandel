@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Vaishnavi%20Tandel%20✨&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -90,4 +90,4 @@ I’m passionate about improving my technical skills and building projects that 
 <p align="center">
 <i>"Learning, building, and growing every day ✨"</i>
 </p>
-```
+
